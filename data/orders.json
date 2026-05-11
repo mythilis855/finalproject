@@ -1,0 +1,19 @@
+[ {
+    "id": "order1",
+    "item_id": "item1",
+    "item_name": "Apple",
+    "quantity": 2,
+    "status": "active",
+    "total": 1.0,
+    "timestamp": "2026-05-10T10:00:00"
+},
+{
+    "id": "order2",
+    "item_id": "item2",
+    "item_name": "Banana",
+    "quantity": 5,
+    "status": "cancelled",
+    "total": 1.5,
+    "timestamp": "2026-05-09T15:30:00"
+}
+]
